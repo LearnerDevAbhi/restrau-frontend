@@ -1,0 +1,9 @@
+{
+  "name": "Restaurant Menu",
+  "short_name": "Menu",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FBF7F1",
+  "theme_color": "#C2410C",
+  "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
